@@ -1,9 +1,7 @@
-<h1 align="center">Hello 👋, I'm Jennifer Robertson</h1>
-<h3 align="center">A passionate and persistent software engineer.</h3>
+<h1 align="center">Hello 👋, I'm Jennifer</h1>
 
 - 👨‍💻 All of my projects are available at [https://createwithjen.netlify.app](https://createwithjen.netlify.app)
 
-- 📫 How to reach me **CreateWithJen@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
